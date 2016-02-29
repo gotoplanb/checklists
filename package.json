@@ -1,7 +1,7 @@
 {
-  "name": "Checklist",
+  "name": "checklist",
   "bin": {
-    "checklist": "bin/checklist.js"
+    "checklist": "bin/checklist.sh"
   },
   "scripts": {
     "test": "echo \"No tests available\" && exit 1"
