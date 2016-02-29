@@ -1,6 +1,11 @@
-#### Hi, let's file an issue with a template!
+### Environment and Device Details
 
-1) What is your name?!
-2) What is your favorite emoji
-3) Dog or Cat?
-4) Do you like Pizza?
+### Steps to Reproduce
+
+1) first
+2) second
+3) third
+
+### Expected Behavior
+
+### Actual Behavior
