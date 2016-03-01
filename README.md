@@ -12,4 +12,4 @@ This template includes checkboxes and notes for all information we expect to be 
 
 ### issue_template.md
 
-A template used when creating an issue within GitHub issues.
+A template used when creating an issue within GitHub issues. We don't currently use this template.
