@@ -1,13 +1,7 @@
-Closes these JIRA issues:
+Closes these tickets:
 
-* FOO-1
-* FOO-2
-* FOO-3
-
-Includes tests for:
-
-* Bar
-* Baz
+* S-100000
+* I-200000
 
 Animated GIF happypath steps:
 
